@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>inner.png</file>
+    <file>outer.png</file>
+    <file>text.png</file>
+  </qresource>
+</RCC>
